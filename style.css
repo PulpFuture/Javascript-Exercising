@@ -1,17 +1,17 @@
 .content {
 	text-align: center;
-	width: 30%;
+	width: 40%;
 	padding-top: 10%;
 	text-decoration: line-through;
 }
 
-.content ul {
+ul {
 	text-align: left;
 }
 
-.guessing-game-content {
+.conditional-content {
 	text-align: center;
-	width: 30%;
+	width: 40%;
 	padding-top: 25%;
 	
 }
